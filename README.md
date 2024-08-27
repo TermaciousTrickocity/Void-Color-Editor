@@ -6,7 +6,7 @@ Fixes the gross bitrate distroying dithered void on Halo 3: MCC (1.3385.0.0)
 > huge thanks to Lord Zedd
 
 ## How to fix in the rare event MCC gets an update!
-> It's Supported in [HCM](https://github.com/Burnt-o/HaloCheckpointManager) now!
+> It is supported in [HCM](https://github.com/Burnt-o/HaloCheckpointManager) now!
 - If you're weird and want to use this tool:
   - AOB scan for: `8D 3C 1B 8D E8` with only `Executable` checked in the memory scan options.
   - Look for `B9 10000000` (which corresponds to `mov ecx, 00000010`) and save the corresponding address.
