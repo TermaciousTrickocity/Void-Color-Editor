@@ -19,10 +19,10 @@ namespace Options
         public string mccProcessWinstore = "MCCWinStore-Win64-Shipping";
         private string selectedProcessName;
 
-        public string voidDrawAddress = "halo3.dll+0x278AED";
-        public string voidRedColorAddress = "halo3.dll+0x278B08";
-        public string voidGreenColorAddress = "halo3.dll+0x278B07";
-        public string voidBlueColorAddress = "halo3.dll+0x278B06";
+        public string voidDrawAddress = "halo3.dll+0x278E9D";
+        public string voidRedColorAddress = "halo3.dll+0x278EB8";
+        public string voidGreenColorAddress = "halo3.dll+0x278EB7";
+        public string voidBlueColorAddress = "halo3.dll+0x278EB6";
 
         public bool modulesUpdated = false;
 
